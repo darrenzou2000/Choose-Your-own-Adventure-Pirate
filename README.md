@@ -36,3 +36,12 @@ As the captain stares at the torn sail he thinks to himself "We're screwed."
 2D They only few survive.
 
 ---
+
+---
+2B: Then suddenly a shark emerges from the water and chases behind the captain's life raft. The captain begins to cry for help to the crew members he left behind.
+
+3C: The crew member decide to help their captain.
+
+3D: They let shark eat him instead.
+
+---
