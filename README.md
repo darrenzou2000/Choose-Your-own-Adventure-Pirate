@@ -16,8 +16,8 @@ You and your crew are Pirates, you are sailing the high seas, but it suddenly go
 ---
 
 ## [1a]
-Sails get ripped away by a strong gust of wind.
-The crew turns to the captain to see what there next approach should be.
+While they attempt to pull down the sails, they get ripped awayapart by a strong gust of wind.
+The crew then turn to the captain, to see what their next approach should be.
 As the captain stares at the torn sail he thinks to himself "We're screwed."
 
 **[2a]** The captain tells the crew to jump ship.
@@ -27,16 +27,16 @@ As the captain stares at the torn sail he thinks to himself "We're screwed."
 ---
 
 ## [1b]
-The water get in the ship. they all seeking for help and decide jump in the water because the captain took the life jacket.
+The water begins to enter the ship. They're all seeking for help and decide jump to in the water because the captain took the life raft.
 
-**[2c]**They all drown
+**[2c]**They all drown.
 
-**[2d]**They only few survive.
+**[2d]**Only few survive.
 
 ---
 
 ## [2a]
-The crew mates follow the captain's orders without hesitation. One by one they went overboard.
+The crew mates follow the captain's orders without hesitation. One by one they wet overboard.
 
 **[3a]** The commotion causes a crew mate to forget that he can't swim. He immediately starts panicking.
 
@@ -45,9 +45,9 @@ The crew mates follow the captain's orders without hesitation. One by one they w
 ---
 
 ## [2b]
-Then suddenly a shark emerges from the water and chases behind the captain's life raft. The captain begins to cry for help to the crew members he left behind.
+Then suddenly a shark emerges from the water and chases the captain's life raft. The captain begins to cry for help to the crew members he left behind.
 
-**[3c]** The crew member decide to help their captain.
+**[3c]** The crew members decide to help their captain.
 
 **[3d]** They let shark eat him instead.
 
