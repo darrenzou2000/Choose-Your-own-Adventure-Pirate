@@ -38,6 +38,14 @@ As the captain stares at the torn sail he thinks to himself "We're screwed."
 ---
 
 ---
+2A: The cre mates follow the captain's orders without hesitation. One by one they wet overboard.
+
+3A: The commotion causes a cre mate to forget that he can't swim. He immediately starts panicking.
+
+3B: A huge wave swallows the ship whole.
+---
+
+---
 2B: Then suddenly a shark emerges from the water and chases behind the captain's life raft. The captain begins to cry for help to the crew members he left behind.
 
 3C: The crew member decide to help their captain.
