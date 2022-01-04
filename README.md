@@ -29,6 +29,10 @@ As the captain stares at the torn sail he thinks to himself "We're screwed."
 
 
 ---
-1B:
+1B: The water get in the ship. they all seeking for help and decide jump in the water because the captain took the life jacket.
+
+2C They all drown
+
+2D They only few survive.
 
 ---
