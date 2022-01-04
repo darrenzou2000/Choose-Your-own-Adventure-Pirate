@@ -17,8 +17,13 @@ You and your crew are Pirates, you are sailing the high seas, but it suddenly go
 
 
 ---
-1A
+1A: Sails get ripped away by a strong gust of wind.
+The crew turns to the captain to see what there next approach should be.
+As the captain stares at the torn sail he thinks to himself "We're screwed."
 
+2A: The captain tells the crew to jump ship.
+
+2B: The captain abandons his crew and takes the only life raft.
 
 ---
 
