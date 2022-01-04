@@ -36,9 +36,9 @@ The water get in the ship. they all seeking for help and decide jump in the wate
 ---
 
 ## [2a]
-The crew mates follow the captain's orders without hesitation. One by one they wet overboard.
+The crew mates follow the captain's orders without hesitation. One by one they went overboard.
 
-**[3a]** The commotion causes a cre mate to forget that he can't swim. He immediately starts panicking.
+**[3a]** The commotion causes a crew mate to forget that he can't swim. He immediately starts panicking.
 
 **[3b]** A huge wave swallows the ship whole.
 
